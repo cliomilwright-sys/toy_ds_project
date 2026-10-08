@@ -1,2 +1,3 @@
 # toy_ds_project
 project creation date: Thursday October 8th.
+author: Clio Milwright
